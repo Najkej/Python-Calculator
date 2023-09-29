@@ -1,2 +1,2 @@
-# Calculator
-Python calculator with GUI (tkinter library)
+# Kalkulator Python
+## Polska wersja językowa
